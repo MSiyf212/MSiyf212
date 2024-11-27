@@ -1,4 +1,4 @@
-# Hi👋, I am a former back end developer, now I am interested in exploring Artificial Intelligence and Data Science.
+# Hi👋, I am a former back-end developer, now I am interested in exploring Artificial Intelligence and Data Science and am interested in following research developments in the fields of science and technology.
 <a href="https://www.linkedin.com/in/miftahul-huda-39b7a9223">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -11,9 +11,9 @@
 
 ### 🚀 About Me :
 
-Data Science students who have high motivation to continue to improve their experience and knowledge. Proficient in problem solving and has a high interest in science and technology, especially Artificial Intelligence.
+Data Science students who are highly motivated to continue to improve their experience and knowledge. Proficient in problem solving and have a high interest in science and technology, especially Artificial Intelligence. Currently have a high interest in the development of science and technology research in theory or application.
 
-
+<!--
 ### 🔥 Languages ​​and Tools I used and learned:
 
 #### Software Engineer
